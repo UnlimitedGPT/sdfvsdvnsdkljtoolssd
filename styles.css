@@ -7,6 +7,15 @@ body {
   padding: 20px;
   background-color: #000313;
   }
+  .title-ai {
+    color: #ffffff;
+    position: absolute;
+    top: -21px;
+    font-size: xxx-large;
+    font-family: emoji;
+
+  }
+
   .tool-container {
   display: flex;
   flex-wrap: wrap;
@@ -83,6 +92,7 @@ body {
   margin-bottom: 20px;
   width: 100%;
   max-width: 810px; /* Set the maximum width of the container */
+  margin-top: 55px;
   }
   
   .filter-button {
