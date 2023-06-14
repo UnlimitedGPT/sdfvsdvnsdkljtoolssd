@@ -1,0 +1,136 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 20px;
+  background-color: #000313;
+  }
+  .tool-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  }
+  .tool {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  padding: 20px;
+  width: 245px;
+  transition: box-shadow 0.3s ease;
+  cursor: pointer;
+  }
+  
+  .tool:hover {
+  box-shadow: 0px 0px 8px rgb(255, 255, 255), 0px 0px 20px rgb(255, 255, 255);
+  background-color: #ffffff;
+  }
+  .tool img {
+  margin-bottom: 10px;
+  height: 70px;
+  max-width: 256px;
+  border-radius: 7px;
+  
+  }
+  .tool h2 {
+  margin: 0;
+  margin-bottom: 10px;
+  }
+  .tool p {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  }
+  .tool strong {
+  display: block;
+  margin-bottom: 10px;
+  }
+  .tool a {
+  color: #007bff;
+  text-decoration: none;
+  }
+  
+  .tool {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 270px; /* set a fixed height for all boxes */
+  }
+  
+  .tool h2 {
+  margin-bottom: 10px;
+  display: contents;
+  }
+  
+  .tool strong {
+  margin-top: auto; /* push the category name to the bottom */
+  }
+  
+  .tool a {
+  margin-top: 3%;
+  }
+  
+  .button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 810px; /* Set the maximum width of the container */
+  }
+  
+  .filter-button {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 17px;
+  margin: 4px;
+  padding: 8px 12px;
+  transition: background-color 0.3s ease;
+  }
+  
+  .filter-button:hover {
+  background-color: #0056b3;
+  }
+
+  /* .hot-tool {
+    border: 2px solid red;
+    background-color: #ffe6e6;
+  } */
+
+  .hot-icon {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    background-image: url(https://i.ibb.co/wM1RgC0/fire-svgrepo-com.png);
+    background-size: cover;
+    position: absolute;
+    margin-left: 226px;
+    margin-top: 240px;
+  }
+    
+  
+  /* For tablets */
+  @media (max-width: 768px) {
+  .tool {
+  width: calc(50% - 20px);
+  }
+  }
+  
+  /* For mobile devices */
+  @media (max-width: 480px) {
+  .tool {
+  width: 100%;
+  }
+  }
+  
+  
+  
