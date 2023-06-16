@@ -15,7 +15,7 @@ const tools = [
     logo: "https://i.ibb.co/jTD6msD/Screenshot-2023-06-10-143304.png"
   },
   {
-    link: "https://www.freepik.com/",
+    link: "https://www.freepik.com/ai/image-generator",
     name: "Freepik",
     description: "Unlock boundless creativity at Freepik! Explore a wealth of top-notch photos, vectors, videos, and mockups all in one place. Find",
     category: "Image Generator",
