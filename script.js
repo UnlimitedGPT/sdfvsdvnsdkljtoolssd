@@ -833,11 +833,12 @@ const tools = [
     aff:true
   },
   {
-    link: "https://manychat.com/",
+    link: "https://manychat.pxf.io/Wq4jvn",
     name: "ManyChat",
     description: "With ManyChat, customers can be engaged instantly, breathing life into interactive dialogues across Instagram Direct Messages, Facebook Messenger, and SMS,",
     category: "Chatbot",
-    logo: "https://i.ibb.co/P6C1fD0/Screenshot-2023-05-16-223444.png"
+    logo: "https://i.ibb.co/P6C1fD0/Screenshot-2023-05-16-223444.png",
+    aff:true
   },
   {
     link: "https://customers.ai/?a_aid=unlimitedgpt",
