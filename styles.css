@@ -106,10 +106,26 @@ body {
   padding: 8px 12px;
   transition: background-color 0.3s ease;
   }
+
+  .filter-button-sub {
+    background-color: #ff2638;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    margin: 4px;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease;
+    }
   
   .filter-button:hover {
   background-color: #0056b3;
   }
+
+  .filter-button-sub:hover {
+    background-color: #ec1426;
+    }
 
   /* .hot-tool {
     border: 2px solid red;
