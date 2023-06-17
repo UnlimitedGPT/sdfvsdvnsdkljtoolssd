@@ -581,7 +581,7 @@ const tools = [
     description: "Visla is your video storytelling companion, an AI-powered platform that simplifies recording, editing, and sharing high-quality videos for teams and",
     category: "Video Generator",
     logo: "https://i.ibb.co/hZkjj6q/Screenshot-2023-05-21-224626.png",
-    aff:true
+    Hot:true,
   },
   {
     link: "https://kreadoai.com/",
