@@ -2676,11 +2676,12 @@ const tools = [
     logo: "https://i.ibb.co/MMB2yCb/Screenshot-2023-04-03-230514.png"
   },
   {
-    link: "https://crawlq.ai/",
+    link: "https://app.crawlq.ai/sign-up?_get=unlimitedgpt",
     name: "CrawlQ",
     description: "Capture your customers' attention with mesmerizing conversational AI - the game-changer for branding! Witness remarkable business growth with high-return on",
     category: "Writing",
-    logo: "https://i.ibb.co/MMstHkk/Screenshot-2023-04-03-222353.png"
+    logo: "https://i.ibb.co/MMstHkk/Screenshot-2023-04-03-222353.png",
+    aff:true
   },
   {
     link: "https://www.smartwriter.ai/",
