@@ -7,6 +7,14 @@ const tools = [
     logo: "https://i.ibb.co/pXvt9hg/Midjourney.webp",
     Hot:true
     },
+        {
+    link: "https://quickqr.art/",
+    name: "QuickQR Art",
+    description: "Scannable QR Art for your brands .",
+    category: "Image Generator",
+    logo: "https://i.ibb.co/5Ty0BL6/logo-quickqr-art.png",
+    Hot:true
+    },
     {
     link: "https://chatme.vn",
     name: "ChatMe.Vn",
@@ -22,6 +30,13 @@ const tools = [
     logo: "https://i.ibb.co/xzmhXdq/Screenshot-2023-06-10-143836.png",
     aff:true
   },
+    {
+    link: "https://leonardo.ai/",
+    name: "Leonardo.ai",
+    description: "Leonardo.Ai is an AI service that creates and finetunes content such as game assets and artwork from words or images.",
+    category: "Image Generator",
+    logo: "https://i.ibb.co/qY0LxLW/download.jpg",
+    }, 
   {
     link: "https://www.codefy.ai/",
     name: "Codefy.ai",
@@ -2034,7 +2049,7 @@ const tools = [
     description: "The 10Web WordPress Platform is powered by artificial intelligence and offers a range of features including an automated website builder,",
     category: "Coding",
     logo: "https://i.ibb.co/sgLrhZK/Screenshot-2023-04-10-225334.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://www.freeday.ai/",
@@ -2505,7 +2520,7 @@ const tools = [
     description: "Get stunning professional headshots effortlessly with Aragon. Utilize the latest in A.I. technology to create high-quality headshots of yourself",
     category: "Image Generator",
     logo: "https://i.ibb.co/GP978pn/Screenshot-2023-04-06-215006.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://www.deepmotion.com/",
@@ -2563,7 +2578,7 @@ const tools = [
     description: "Eliminate the hassle of starting your next academic article, presentation, speech, blog, essay, tech doc, or proposal from scratch. Let",
     category: "Writing",
     logo: "https://i.ibb.co/7YVMRnL/Screenshot-2023-04-06-210623.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://www.deepswap.ai/",
@@ -3388,7 +3403,7 @@ const tools = [
     description: "Play.ht's online voice generator employs state-of-the-art AI technology to produce incredibly realistic Text to Speech audio. Select from a",
     category: "Speech AI",
     logo: "https://i.ibb.co/y6NBm90/Screenshot-2023-03-26-125938.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://bertha.ai/?ref=14399",
@@ -3425,7 +3440,7 @@ const tools = [
     description: "Get inspired with Interior Design Ideas and take your space to the next level with a Virtual Staging App powered",
     category: "Design",
     logo: "https://i.ibb.co/JvZBzTJ/Screenshot-2023-03-25-223717.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://cutt.ly/n62mb7b",
@@ -3669,7 +3684,8 @@ const tools = [
     name: "ElevenLabs",
     description: "It can clone anyone's voice in seconds. Eleven brings the most compelling, rich and lifelike voices to creators and publishers",
     category: "Speech AI",
-    logo: "https://i.ibb.co/QHcFk1F/Screenshot-2023-02-16-at-10-53-28-PM.png"
+    logo: "https://i.ibb.co/QHcFk1F/Screenshot-2023-02-16-at-10-53-28-PM.png",
+    Hot:true  
   },
   {
     link: "https://www.usegalileo.ai/",
