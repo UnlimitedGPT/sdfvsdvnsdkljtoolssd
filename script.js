@@ -1889,7 +1889,7 @@ const tools = [
     description: "With Morise.ai, your videos can go viral effortlessly while you concentrate on crafting them. Morise.ai has been taught",
     category: "Marketing",
     logo: "https://i.ibb.co/Z874tqT/Screenshot-2023-04-14-013107.png",
-    aff:true
+    Hot:true,
   },
   {
     link: "https://ecold.ai/",
