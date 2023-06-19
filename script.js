@@ -1,4 +1,11 @@
 const tools = [
+    {
+    link: "https://chatme.vn",
+    name: "ChatMe.Vn",
+    description: "ChatMe.Vn: Create amazing AI chatbots with three models. Use GPT3.5 for any topic, web data for realtime events, and your documents for custom training.",
+    category: "Chatbot",
+    logo: "https://i.ibb.co/cKqtT2r/B4-FB1187-59-E0-4-EBC-BDBD-06-F50-A7-AA74-A-chatme-vn.jpg"
+    },
   {
     link: "https://get.scribehow.com/lp-1/?via=unlimitedgpt",
     name: "Scribe",
