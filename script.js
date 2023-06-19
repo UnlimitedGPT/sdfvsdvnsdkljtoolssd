@@ -1,5 +1,13 @@
 const tools = [
     {
+    link: "https://www.midjourney.com/home/",
+    name: "Midjourney",
+    description: "Midjourney is a research lab and an AI service that creates images from words .",
+    category: "Image Generator",
+    logo: "https://i.ibb.co/pXvt9hg/Midjourney.webp",
+    Hot:true
+    },
+    {
     link: "https://chatme.vn",
     name: "ChatMe.Vn",
     description: "ChatMe.Vn: Create amazing AI chatbots with three models. Use GPT3.5 for any topic, web data for realtime events, and your documents for custom training.",
@@ -41,7 +49,7 @@ const tools = [
     description: "Enter the captivating realm of Getimg.ai, where AI wields its magic to create extraordinary art, photos, images, and avatars.",
     category: "Image Generator",
     logo: "https://i.ibb.co/fxJYkCZ/Screenshot-2023-06-09-222846.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://stablecog.com/",
@@ -2918,7 +2926,7 @@ const tools = [
     description: "Synthesia is an AI video avatar platform that creates professional videos from a text in different languages. The company replaces",
     category: "Video Generator",
     logo: "https://i.ibb.co/Dz4sZ5h/Screenshot-2023-04-02-at-1-13-43-AM.png",
-    aff:true
+    Hot:true
   },
   {
     link: "https://pictory.ai?ref=unlimited11",
