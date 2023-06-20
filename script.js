@@ -1994,11 +1994,12 @@ const tools = [
     logo: "https://i.ibb.co/8775ySM/Screenshot-2023-04-11-222529.png"
   },
   {
-    link: "https://podcastle.ai/",
+    link: "https://podcastle.ai/?ref=ntbintl",
     name: "Podcastle",
     description: "Podcastle provides a complete solution for audio storytelling, offering high-quality recording, advanced editing powered by AI, and effortless exporting -",
     category: "Speech AI",
-    logo: "https://i.ibb.co/LxSG7Ly/Screenshot-2023-04-11-221754.png"
+    logo: "https://i.ibb.co/LxSG7Ly/Screenshot-2023-04-11-221754.png",
+    aff:true
   },
   {
     link: "https://cleanvoice.ai/",
