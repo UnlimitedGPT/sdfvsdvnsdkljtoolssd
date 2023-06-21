@@ -7,14 +7,14 @@ const tools = [
     logo: "https://i.ibb.co/pXvt9hg/Midjourney.webp",
     Hot:true
     },
-        {
+    {
     link: "https://www.botx.cloud/platform/no-code-ai-platform",
     name: "botx.cloud",
     description: "Botx is a no-code AI platform for advanced AI model and workflow orchestration.",
     category: "Coding",
     logo: "https://i.ibb.co/St4b2C5/botx-blue-Petr-Hejtm-nek.png",
     },
-        {
+    {
     link: "https://quickqr.art/",
     name: "QuickQR Art",
     description: "Scannable QR Art for your brands .",
