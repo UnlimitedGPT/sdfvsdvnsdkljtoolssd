@@ -8,6 +8,13 @@ const tools = [
     Hot:true
     },
         {
+    link: "https://www.botx.cloud/platform/no-code-ai-platform",
+    name: "botx.cloud",
+    description: "Botx is a no-code AI platform for advanced AI model and workflow orchestration.",
+    category: "Coding",
+    logo: "https://i.ibb.co/St4b2C5/botx-blue-Petr-Hejtm-nek.png",
+    },
+        {
     link: "https://quickqr.art/",
     name: "QuickQR Art",
     description: "Scannable QR Art for your brands .",
@@ -2501,7 +2508,7 @@ const tools = [
     Hot:true,
   },
   {
-    link: "https://picsart.com/",
+    link: "https://imp.i326929.net/jrn1d5",
     name: "Picsart",
     description: "Picsart is a versatile platform that lets you explore your creativity with photo, video editing, and design tools. You'll find",
     category: "Photo Editor",
