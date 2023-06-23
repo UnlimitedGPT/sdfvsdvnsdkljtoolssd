@@ -5,7 +5,6 @@ const tools = [
     description: "Midjourney is a research lab and an AI service that creates images from words .",
     category: "Image Generator",
     logo: "https://i.ibb.co/pXvt9hg/Midjourney.webp",
-    Hot:true
     },
     {
     link: "https://www.botx.cloud/platform/no-code-ai-platform",
@@ -20,7 +19,6 @@ const tools = [
     description: "Scannable QR Art for your brands .",
     category: "Image Generator",
     logo: "https://i.ibb.co/5Ty0BL6/logo-quickqr-art.png",
-    Hot:true
     },
     {
     link: "https://chatme.vn",
@@ -420,7 +418,7 @@ const tools = [
     logo: "https://i.ibb.co/brZ715M/Screenshot-2023-05-24-200945.png"
   },
   {
-    link: "https://www.smartscout.com/",
+    link: "https://smartscout.com?fpr=unlimitedgpt",
     name: "SmartScout",
     description: "Discover untapped product opportunities on Amazon with SmartScout, outshining other tools with its extensive data points. Make profitable decisions effortlessly",
     category: "Sales",
@@ -509,7 +507,6 @@ const tools = [
     description: "Embark on a captivating journey with BlueWillow's AI artwork generator. Simply describe your desired image, and BlueWillow's powerful tool will",
     category: "Image Generator",
     logo: "https://i.ibb.co/KVyFZ3t/Screenshot-2023-05-23-000829.png",
-    Hot:true,
   },
   {
     link: "https://pebblely.com/",
@@ -618,7 +615,7 @@ const tools = [
     description: "Visla is your video storytelling companion, an AI-powered platform that simplifies recording, editing, and sharing high-quality videos for teams and",
     category: "Video Generator",
     logo: "https://i.ibb.co/hZkjj6q/Screenshot-2023-05-21-224626.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://kreadoai.com/",
@@ -2505,7 +2502,7 @@ const tools = [
     description: "Transform your video and podcast editing process with Descript - an easy, efficient, and enjoyable way to edit. With Descript,",
     category: "Video Editor",
     logo: "https://i.ibb.co/YkvN0vT/Screenshot-2023-04-06-220425.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://imp.i326929.net/jrn1d5",
@@ -2520,7 +2517,6 @@ const tools = [
     description: "PhotoRoom is an all-in-one creative photo editing platform that enables users to create professional designs effortlessly. The app allows for",
     category: "Photo Editor",
     logo: "https://i.ibb.co/W38sQmS/Screenshot-2023-04-06-215443.png",
-    Hot:true,
   },
   {
     link: "https://www.aragon.ai/?via=unlimitedgpt",
@@ -2557,7 +2553,7 @@ const tools = [
     description: "Transform your written words into compelling voiceovers instantly with WellSaid Labs. As the leading AI voice platform, it is trusted",
     category: "Speech AI",
     logo: "https://i.ibb.co/NpZvRSQ/Screenshot-2023-04-06-213350.png",
-    Hot:true,
+    aff:true,
   },
   {
     link: "https://www.readspeaker.com/",
@@ -3198,7 +3194,6 @@ const tools = [
     description: "Introducing Adobe Firefly: the AI-powered creative companion that brings imagination to life. With Firefly, the possibilities for artistic expression are",
     category: "Design",
     logo: "https://i.ibb.co/3vt90qr/Screenshot-2023-03-30-222656.png",
-    Hot:true,
   },
   {
     link: "https://lexica.art/",
@@ -3664,7 +3659,6 @@ const tools = [
     description: "Adobe Podcast helps you create studio-quality audio. Remove noise from voice recordings with speech enhancement. Speech enhancement makes voice recordings",
     category: "Audio Editing",
     logo: "https://i.ibb.co/xYf22J2/Screenshot-2023-02-17-at-12-30-26-AM.png",
-    Hot:true,
   },
   {
     link: "https://mintlify.com/",
@@ -3693,7 +3687,6 @@ const tools = [
     description: "It can clone anyone's voice in seconds. Eleven brings the most compelling, rich and lifelike voices to creators and publishers",
     category: "Speech AI",
     logo: "https://i.ibb.co/QHcFk1F/Screenshot-2023-02-16-at-10-53-28-PM.png",
-    Hot:true  
   },
   {
     link: "https://www.usegalileo.ai/",
